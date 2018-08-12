@@ -14,5 +14,5 @@ When 9000 shots have been completed compile the 90 mini movies into 1 movie that
 
 Detects night and day and changes camera mode to suit best as possible without too long an exposure so that moving objects don't get blured.
 
-
+see full 12 hour (6 minutes) here https://www.youtube.com/watch?v=T95LkNIJyZs&feature=youtu.be
 
